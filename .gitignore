@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.env
+.envrc
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs, pcaps, large files
+*.log
+*.pcap
+*.pcapng
+*.sqlite
+*.db
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secret files (double-check)
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+EOF
